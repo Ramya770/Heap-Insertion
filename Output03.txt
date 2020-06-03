@@ -1,0 +1,13 @@
+The Max Heap is 
+ PARENT : 25 LEFT CHILD : 21 RIGHT CHILD :13
+ PARENT : 21 LEFT CHILD : 14 RIGHT CHILD :18
+ PARENT : 13 LEFT CHILD : 4 RIGHT CHILD :8
+ PARENT : 14 LEFT CHILD : 1 RIGHT CHILD :1
+ PARENT : 18 LEFT CHILD : 1 RIGHT CHILD :0
+The max val is 25
+The first name as “ramya”and
+r	a	m	y	a	
+->After heapification (Maxheap),the array becomes
+y	r	m	a	a                         
+->After inserting “dhanu” the maxheap array becomes
+y	u	m	n	r	d	h	a	a	a
